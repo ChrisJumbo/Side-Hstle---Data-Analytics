@@ -1,2 +1,2 @@
-# Side-Hstle---Data-Analytics
+# Side-Hustle---Data-Analytics
 Working with Excel.
